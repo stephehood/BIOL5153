@@ -1,12 +1,12 @@
-### Stephanie E. Hood
+## Stephanie E. Hood
  1750 Lancaster Drive, Springdale, AR 72762  
  Phone: (978) 399-8413, Email: stephehood@gmail.com  
            
-#### __OVERVIEW__
+### OVERVIEW
 
 Experienced research technologist seeking an intellectually challenging position in the biomedical field. Looking to establish a career that will provide opportunities to learn new experimental procedures while continuing to build on existing techniques, and to further advance as a scientific professional. 
 
-#### **EDUCATION**
+### EDUCATION
 
 **UNIVERSITY OF ARKANSAS, J. WILLIAM FULBRIGHT COLLEGE OF ARTS & SCIENCES: Fayetteville, AR**   
 Graduate- Currently Enrolled  
@@ -22,7 +22,7 @@ Semester Abroad-December 2011
                                                                                                                 
 **NOTEABLE COURSEWORK: Biochemistry, Genetics, Developmental Biology, Statistics, and Regenerative Medicine.**
 
-#### RELATED EXPERIENCE
+### RELATED EXPERIENCE
 
 ##### UNIVERSITY OF ARKANSAS, DEPARTMENT OF BIOLOGICAL SCIENCES: FAYETTEVILLE, AR  
 PI: DR. MICHAEL LEHMANN   
@@ -87,7 +87,7 @@ Participated in two ongoing research projects, “Comparison of Size Specific Fe
     • Analyzed and compared native and invasive crab species, observing the fecundity rate in gravid females through counting clutch sizes. Performed data analysis to prove hypothesis correct, that the invasive species of crab had a larger fecundity rate.   
 
 
-#### OTHER EXPERIENCE
+### OTHER EXPERIENCE
 
 #####  OUR LADY VICTORY PRESCHOOL:   STATE COLLEGE, PA  					                              
 **Extended School Day (ESD) Teacher’s Assistant:  August 2013- December 2013**  	                                                      Responsible for watching groups of 5-25 children nightly, Monday-Friday. Supplied a structured schedule of events, including snack time, outdoor play, arts and crafts, etc. Helped organize events such as the Christmas bake sale, which raised money for gifts for children whose families could not afford them. 
@@ -111,7 +111,7 @@ Hired seasonally to assist with weddings, corporate and private events.  Require
 ##### LE CLUB  BARBES, EDUCATION SUPPORT FOR COLLEGE & HIGH SCHOOL STUDENTS: PARIS, FRANCE            
 **English Tutor: September 2011- December 2011**                                                                                                       Volunteered to tutor English to French adolescents. Met weekly with five students to help build on their language skills, developing creative methods to reinforce what they learned. 
 
-#### PERSONAL PROFILE  
+### PERSONAL PROFILE  
 
     • Language-Fluent in French 
     • Expereince wokring in the command line
