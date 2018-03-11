@@ -8,26 +8,26 @@ Experienced research technologist seeking an intellectually challenging position
 
 ###### **EDUCATION**
 
-UNIVERSITY OF ARKANSAS, J. WILLIAM FULBRIGHT COLLEGE OF ARTS & SCIENCES: Fayetteville, AR\
-Graduate- Currently Enrolled\
-    • Concentration: Cell & Molecular Biology\								    
+UNIVERSITY OF ARKANSAS, J. WILLIAM FULBRIGHT COLLEGE OF ARTS & SCIENCES: Fayetteville, AR  
+Graduate- Currently Enrolled  
+     • Concentration: Cell & Molecular Biology  							    
     								 	                                 
 
-FAIRFIELD UNIVERSITY, COLLEGE OF ARTS AND SCIENCES: Fairfield, CT\
-Bachelors of Science- May 2013\	  							                                   
-    • Majors: Biology and French Language and Culture\
+FAIRFIELD UNIVERSITY, COLLEGE OF ARTS AND SCIENCES: Fairfield, CT  
+Bachelors of Science- May 2013  							                                   
+     • Majors: Biology and French Language and Culture  
 
-PARIS CENTER FOR CRITICAL STUDIES, CIEE STUDY ABROAD PROGRAM: Paris, France\                                                                                                                                                                                                                      
-Semester Abroad-December 2011\  
+PARIS CENTER FOR CRITICAL STUDIES, CIEE STUDY ABROAD PROGRAM: Paris, France                                                                                                                                                                                                                     
+Semester Abroad-December 2011  
                                                                                                                 
 ###### NOTEABLE COURSEWORK: Biochemistry, Genetics, Developmental Biology, Statistics, and Regenerative Medicine.
 
 ###### RELATED EXPERIENCE
 
-###### UNIVERSITY OF ARKANSAS, DEPARTMENT OF BIOLOGICAL SCIENCES
-PI: DR. MICHAEL LEHMANN						                         			  FAYETTEVILLE, AR
-Research Assistant/ Laboratory Manager				                                            January 2015 - Present
-Involved in a wide variety of research projects, both independent and shared. Main contact for students in the laboratory for any questions they have regarding technique or theory. Maintain laboratory organization and cleanliness and responsible for supply and stock collection upkeep. 
+###### UNIVERSITY OF ARKANSAS, DEPARTMENT OF BIOLOGICAL SCIENCES: FAYETTEVILLE, AR  
+PI: DR. MICHAEL LEHMANN   
+**Research Assistant/ Laboratory Manager: January 2015 - Present**  
+Involved in a wide variety of research projects, both independent and shared. Main contact for students in the laboratory for any questions they have regarding technique or theory. Maintain laboratory organization and cleanliness and responsible for supply and stock collection upkeep.   
 
     • Acquired molecular biological skills such as: DNA extraction, baterial cloning, PCR, western-blot analysis, primer design, and sequencing analysis. 
     • Designed and created new mutant fly lines using the CRISPR/Cas9 system.
@@ -39,11 +39,11 @@ Involved in a wide variety of research projects, both independent and shared. Ma
     • Perform various dissections and antibody staining of Drosophila melanogaster tissue, which require much dexterity and delicacy. 
     • Responsible for laboratory inventory management and sourcing of high-priced chemicals, supplies, as well as valuable laboratory equipment.  Charged with the organization and handling of paperwork for all purchases to department accountant.  Required to maintain a reliable chemical inventory, laboratory safety manual, and to keep an organized laboratory notebook.
 
-###### THE PENNSYLVANIA STATE UNIVERSITY, CENTER FOR NEURAL ENGINEERING 
-PI: Dr. PATRICK DREW                         					         UNIVERSITY PARK, PA
-Research Technologist/Laboratory Manager			                                     January2014-December 2014
-Laboratory Technician						                          August 2013-December 2013
-Engaged in multiple research projects, both independent and collaborative.  Responsible for laboratory maintenance and managerial tasks.  Interacted with undergraduates, graduate students, post-doctoral scholars, and principal investigator to troubleshoot and improve existing procedures.
+###### THE PENNSYLVANIA STATE UNIVERSITY, CENTER FOR NEURAL ENGINEERING:  UNIVERSITY PARK, PA  
+PI: Dr. PATRICK DREW                           					        
+**Research Technologist/Laboratory Manager: January2014-December 2014** 
+**Laboratory Technician: August 2013-December 2013** 
+Engaged in multiple research projects, both independent and collaborative.  Responsible for laboratory maintenance and managerial tasks.  Interacted with undergraduates, graduate students, post-doctoral scholars, and principal investigator to troubleshoot and improve existing procedures.  
 
     • Contributing author on multiple manuscripts for publication: 
         ◦ “Mechanical restriction of intracortical vessel dilation by brain tissue sculpts the hemodynamic response.” Gao et al. 2015. 
@@ -60,10 +60,9 @@ Engaged in multiple research projects, both independent and collaborative.  Resp
     • Responsible for laboratory inventory management and sourcing of valuable chemicals, supplies, as well as surgical and optical equipment.  Charged with the organization and processing of paperwork for all purchases to department accountant.  Maintained a reliable chemical inventory, laboratory safety manual, and surgery log book.
     • Saved the laboratory time and expenses by instituting a new chemical and purchasing inventory system, which has reduced unnecessary orders. 
 
-###### FAIRFIELD UNIVERSITY DEPARTMENT OF BIOLOGY 					      
-BASE (Broadening Access to Science Education) Camp Counselor- Marine Invasions                                      FAIRFIELD, CT
-                                                                                                                       July, 2013
-Participated in a two-week, residual summer camp for high school women of less fortunate background, where I acted as counselor and mentor. The program allowed me to engage students in my previous research experience, while broadening their appreciation of the subject. 
+###### FAIRFIELD UNIVERSITY DEPARTMENT OF BIOLOGY: FAIRFIELD, CT  				      
+**BASE (Broadening Access to Science Education) Camp Counselor- Marine Invasions: July 2013**                                
+Participated in a two-week, residual summer camp for high school women of less fortunate background, where I acted as counselor and mentor. The program allowed me to engage students in my previous research experience, while broadening their appreciation of the subject.   
     • Responsible for upwards of 12 teenage girls both in academic and recreational settings.
     • Taught laboratory experiments with campers in the laboratory and out in the field. 
     • Demonstrated and educated students on proper laboratory techniques and etiquette.
@@ -71,9 +70,8 @@ Participated in a two-week, residual summer camp for high school women of less f
     • Helped organize the final PowerPoint presentation of the young women’s research experiences
     
 
-###### FAIRFIELD UNIVERSITY DEPARTMENT OF BIOLOGY           
-Laboratory Technician                                                                                                FAIRFIELD, CT                                            
-							                                                  September 2009- May 2013 
+###### FAIRFIELD UNIVERSITY DEPARTMENT OF BIOLOGY: FAIRFIELD, CT     
+**Laboratory Technician:September 2009- May 2013**    
 Work-study job throughout undergraduate career.  Responsible for setting up and organizing laboratory experiments for all courses offered in the biology department. Worked independently to make media, laboratory buffers, and other solutions. Trained new employees as they were hired, teaching them the proper laboratory safety and procedures.
     • Charged with general laboratory maintenance such as watering plants, feeding fish, and cleaning salt and fresh water tanks. 
     • Accessioned all incoming laboratory purchases, checking them against packing list to assure all items were accounted for. 
