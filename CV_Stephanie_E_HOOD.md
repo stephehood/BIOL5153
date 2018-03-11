@@ -91,7 +91,8 @@ Participated in two ongoing research projects, “Comparison of Size Specific Fe
 ### OTHER EXPERIENCE
 
 ####  OUR LADY VICTORY PRESCHOOL: STATE COLLEGE, PA  					                              
-**Extended School Day (ESD) Teacher’s Assistant:** August 2013- December 2013         	                                                      Responsible for watching groups of 5-25 children nightly, Monday-Friday. Supplied a structured schedule of events, including snack time, outdoor play, arts and crafts, etc. Helped organize events such as the Christmas bake sale, which raised money for gifts for children whose families could not afford them. 
+**Extended School Day (ESD) Teacher’s Assistant:** August 2013- December 2013   
+Responsible for watching groups of 5-25 children nightly, Monday-Friday. Supplied a structured schedule of events, including snack time, outdoor play, arts and crafts, etc. Helped organize events such as the Christmas bake sale, which raised money for gifts for children whose families could not afford them. 
     • Organized and maintained a healthy learning and play environment for children ages 2.5-5 years.
     • Used problem solving skills to defuse arguments, and supply constructive criticism of negative behaviors.
     • Administered appropriate discipline actions when needed, i.e. time-out, apology letters, trips to the principal’s office, etc. 
