@@ -10,16 +10,16 @@ Experienced research technologist seeking an intellectually challenging position
 ### EDUCATION
 
 **UNIVERSITY OF ARKANSAS, J. WILLIAM FULBRIGHT COLLEGE OF ARTS & SCIENCES: Fayetteville, AR**   
-Graduate- Currently Enrolled  
-     • Concentration: Cell & Molecular Biology  							    
+Graduate: Fall 2015- Present  
+Concentration: Cell & Molecular Biology  							    
     								 	                                 
 
 **FAIRFIELD UNIVERSITY, COLLEGE OF ARTS AND SCIENCES: Fairfield, CT**   
-Bachelors of Science- May 2013  							                                   
-     • Majors: Biology and French Language and Culture  
+Bachelors of Science: May 2013  			  				                                   
+Majors: Biology and French Language and Culture  
 
 **PARIS CENTER FOR CRITICAL STUDIES, CIEE STUDY ABROAD PROGRAM: Paris, France**                                                                                                                                                                                                                       
-Semester Abroad-December 2011  
+Semester Abroad: December 2011    
                                                                                                                 
 **NOTEABLE COURSEWORK: Biochemistry, Genetics, Developmental Biology, Statistics, and Regenerative Medicine.**
 
