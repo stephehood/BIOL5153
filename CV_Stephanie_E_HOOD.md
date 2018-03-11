@@ -1,6 +1,7 @@
 ## Stephanie E. Hood  
  1750 Lancaster Drive, Springdale, AR 72762  
- Phone: (978) 399-8413, Email: stephehood@gmail.com  
+ **Phone: (978) 399-8413**  
+ **Email: stephehood@gmail.com**  
            
 ### OVERVIEW
 
