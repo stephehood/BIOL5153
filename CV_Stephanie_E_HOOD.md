@@ -125,9 +125,10 @@ Volunteered to tutor English to French adolescents. Met weekly with five student
 
     • Language-Fluent in French 
     • Expereince wokring in the command line
-    • Sigma Xi Membership						                                        May 2013, Inducted 
-    • Eucharistic Minister							                            Fall 2009- Spring 2012
-    • Lord’s Chords, Church Choir						                            Fall 2009- Spring 2012
-    • Improvisation Club								                               Spring 2011
-    • Girl Scout Gold Award Recipient						                                       Spring 2009
-   Founded the North Middlesex Regional High School Community Garden http://nmrhs.nmrsd.org/communitygarden            Spring 2009
+    • Sigma Xi Membership						                  May 2013, Inducted 
+    • Eucharistic Minister							        Fall 2009- Spring 2012
+    • Lord’s Chords, Church Choir						        Fall 2009- Spring 2012
+    • Improvisation Club								      Spring 2011
+    • Girl Scout Gold Award Recipient		                                              Spring 2009
+    • Founded the [North Middlesex Regional High School Community Garden] 		      Spring 2009
+       (http://nmrhs.nmrsd.org/communitygarden)         
