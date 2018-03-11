@@ -2,7 +2,7 @@
  1750 Lancaster Drive, Springdale, AR 72762  
  Phone: (978) 399-8413, Email: stephehood@gmail.com  
            
-###### **OVERVIEW**
+###### __OVERVIEW__
 
 Experienced research technologist seeking an intellectually challenging position in the biomedical field. Looking to establish a career that will provide opportunities to learn new experimental procedures while continuing to build on existing techniques, and to further advance as a scientific professional. 
 
