@@ -97,13 +97,13 @@ Participated in two ongoing research projects, “Comparison of Size Specific Fe
     • Administered appropriate discipline actions when needed, i.e. time-out, apology letters, trips to the principal’s office, etc. 
 
 #### DONELAN’S SUPERMARKET, INC: ACTON, MA							          
-**Supermarket Associate:** June 2007- August 2013
+**Supermarket Associate:** June 2007- August 2013  
 Worked at a customer focused supermarket for 6 years. Worked various jobs throughout this time including bagger, cashier and café barista. Responsible for maintaining high customer satisfaction by having knowledge of the store, its layout, and products. 
     • Used positive communication skills to interact with customers and assisted them in locating items and resolving issues. Utilized conflict management skills when necessary to help diffuse upset individuals. 
     • Worked independently opening and closing the café. Responsible for daily upkeep including inventory, cleaning, making coffee and sandwiches, serving gelato, taking out trash, and replacing old products, while also keeping a balanced drawer. 
 
 #### FAIRFIELD UNIVERSITY OFFICE OF ACADEMIC SUPPORT & RETENTION: FAIRFIELD, CT                                      
-**French Tutor:** January 2012- May 2013         
+**French Tutor:** January 2012- May 2013        
 Tutored Elementary French to undergraduates, aiding them in their understanding of the language. Helped students with speaking, writing, reading, and grammar skills, as well as cultural appreciation. 
 
 #### GOURMET GALLEY CATERING: NORTH STONINGTON, CT							     
