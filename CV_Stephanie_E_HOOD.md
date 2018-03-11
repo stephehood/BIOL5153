@@ -42,7 +42,7 @@ Involved in a wide variety of research projects, both independent and shared. Ma
 
 ##### THE PENNSYLVANIA STATE UNIVERSITY, CENTER FOR NEURAL ENGINEERING:  UNIVERSITY PARK, PA  
 PI: Dr. PATRICK DREW                           					        
-**Research Technologist/Laboratory Manager: January2014-December 2014** 
+**Research Technologist/Laboratory Manager: January2014-December 2014**  
 **Laboratory Technician: August 2013-December 2013**     
 Engaged in multiple research projects, both independent and collaborative.  Responsible for laboratory maintenance and managerial tasks.  Interacted with undergraduates, graduate students, post-doctoral scholars, and principal investigator to troubleshoot and improve existing procedures.  
 
