@@ -1,9 +1,13 @@
 ## The README for BIOL5153
 
+#### Argparse
+Attempted to use the filter_fasta_by_length.py code to apply to my parseGFF.py code but ran into some issues. Hopefully I can resolve some of these issues before class tomorrow. 041018
 #### Homework 5 -ParseGFF.py
 
 This was a huge challenge for me as I had to learn a lot of new funtions on my own. I was able to pull out the start and stop locations but the I wasn't able to use that information to pull the data from watermelon.fsa
 Hopefully tomorrow in class we will go over this more. 
+Update: 041018
+Haley and Andy helped me get this code to work. Now need to use argparse so the code will be more versatile
 
 Use BioPython
 Stack Overflow.com has some helpful information
