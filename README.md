@@ -2,6 +2,8 @@
 
 #### Argparse
 Attempted to use the filter_fasta_by_length.py code to apply to my parseGFF.py code but ran into some issues. Hopefully I can resolve some of these issues before class tomorrow. 041018
+Update: 041118: backbone of code was ok, but I had added a bunch of things from the internet that were NOT needed. Tips for the future include trying to use the information provided to me from the class/book to solve my issues. 
+Code works well now!
 #### Homework 5 -ParseGFF.py
 
 This was a huge challenge for me as I had to learn a lot of new funtions on my own. I was able to pull out the start and stop locations but the I wasn't able to use that information to pull the data from watermelon.fsa
