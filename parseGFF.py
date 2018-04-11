@@ -3,6 +3,26 @@
 
 from Bio import SeqIO
 import csv
+import argparse
+
+# create an ArgumentParser object('parser')
+parser = argparse.ArgumentParser(description="This script filters out sequences from a FASTA file that are shorter than user-specified length cutoff")
+parser.add_argument("filename", type=str,  help= "name of file")
+parser.add_argument( "--fasta", "--csv", "--gff", type= str,  help="file format") 
+#parser.add_argument("--m", "--MIN_SEQ_LENGTH", help="filter sequences that are <= min_seq_length in length (default = 300 nt)" , type =int, default=300) 
+# parse the arguments 
+# the variable args above is  what we will call below (args)
+
+args= parser.parse_args()
+print("Hey this worked")
+#print("filter sequences less that", args.m, "nt in length")
+print("We're gonna open this FASTA file:","watermelon.fsa") 
+#print("Sequence is ", args.s)
+#print args.string
+
+
+"""
+
 # read in genome in FASTA format
 
 genome = SeqIO.read("watermelon.fsa", "fasta")
@@ -21,6 +41,7 @@ for line in gff:
 	print(">" + species + " | " + gene + genome.seq[start-1:end]) 
 # use split command to split each line into a lists
 gff.close() 
+"""
 
 """
 with open("watermelon.gff") as tsv:
