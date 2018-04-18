@@ -9,16 +9,12 @@ def get_args():
 	parser = argparse.ArgumentParser(description="This script filters out sequences from a FASTA file based on information provided by a GFF file")
 	parser.add_argument("fasta", type= str,  help= "name of fasta file")
 	parser.add_argument(  "gff", type= str,  help="name of gff file")
-	# parse the arguments
-	args = parser.parse_args()
+	#define positional arguments
 	return parser.parse_args()
 
 
 ##############################################################################################################################
 # read in genome in FASTA format
-# declare our DNA sequence
-#count each nucleotide in our DNA string
-# NOTE: we're assuming that our sequence is just A,C,G, and T
 def get_genome():
 	genome = SeqIO.read(args.fasta, "fasta")
 	return genome.seq
@@ -26,15 +22,14 @@ def get_genome():
 
 # calculate the reverse complement
 def get_reverse_complement():
-		genome = SeqIO.read(args.fasta, "fasta")
-		reverse_complement = genome.reverse_complement()
+		reverse_complement = parse_gff().reverse_complement()
 		return reverse_complement.seq
 
 # open GFF file
 # read it in line by line using a for loop
+# use split command to split each line into a lists
 def parse_gff():
 	gff = open(args.gff)
-	genome = SeqIO.read(args.fasta, "fasta")
 	for line in gff:
 		words = line.split("\t")
 		species = (words[0])
@@ -42,26 +37,32 @@ def parse_gff():
 		end = int(words[4])
 		strand = (words[6])
 		gene = (words[8])
-		return (">" + species + " | " + gene + genome.seq[start-1:end])
-		# use split command to split each line into a lists
-		gff.close()
 
+	for strand in words:
+		if strand.startswith('+'):
+		 	return (words)
+		else:
+			return (words[::-1])
 
+			gff.close()
 
 def main():
-		for strand in genome:
-			if strand.startswith('+'):
-				print (genome)
-			else:
-				print(reverse_complement)
+	print (parse_gff)
+
+
+
+
 
 # outside of main(), get a value defined below
 args = get_args()
+parse_gff = parse_gff()
 genome = get_genome()
-reverse_complement = get_reverse_complement()
-strand = parse_gff()
 #call main
 main ()
+
+#################################################################################################
+
+#Comments below refer to how the original Parse_GFF code was written
 
 
 #use beginning and end coordinates to extract the sequence from the genome
