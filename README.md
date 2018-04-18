@@ -1,5 +1,8 @@
 ## The README for BIOL5153
 
+#### Updates to parse_gff
+Added conditions to Parse_GFF to make it more flexible and compact
+
 #### Homework 6
 After realizing I was making life way harder than it needed to be on myself, I took a step back and realized, hey this ins't going to be all that bad. Homework 6 involved taking the filter_fasta_file_by_length.py and finishing it so that the user could set a min seq and use it to filter a FASTA file. Then I needed to take that code and make a filter_fasta_file_by_list.py where I used basically the same code but switched out the '-m' '--min_seq_length' to '-l' '--list', and removed any sequences just leaving headers.
 
@@ -26,3 +29,5 @@ Markdown version of my CV - March 2018
 ##### Chapter 9 - Files, programs, and user input
 ##### Chapter 5- Functions
     This chapter was full of important information to make your code more flexible. Jupyter notebook wasn't returning correct values. Made everything zero
+##### Chapter 6 - Conditional Tests
+    This chapter reviewes if/ else, elif, etc. to help your code make decisions on the fly
