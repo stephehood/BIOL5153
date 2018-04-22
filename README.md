@@ -31,3 +31,5 @@ Markdown version of my CV - March 2018
     This chapter was full of important information to make your code more flexible. Jupyter notebook wasn't returning correct values. Made everything zero
 ##### Chapter 6 - Conditional Tests
     This chapter reviewes if/ else, elif, etc. to help your code make decisions on the fly
+##### Chapter 7 - Regular Expressions
+    This chapter gave several examples on how to use regular expressions. This will be helpful for my final project. Reference the PowerPoint from class for more examples of Regular Expressions and how to use them.  
