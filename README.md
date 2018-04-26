@@ -1,5 +1,8 @@
 ## The README for BIOL5153
 
+
+#### More updates to parse_GFF.py
+In class on 4/25/18 they went over the edits to add funtions to the Parse_GFF script. Updates have been made and pushed. 
 #### Updates to parse_gff
 Added conditions to Parse_GFF to make it more flexible and compact
 
