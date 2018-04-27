@@ -2,7 +2,7 @@
 
 
 #### More updates to parse_GFF.py
-In class on 4/25/18 they went over the edits to add funtions to the Parse_GFF script. Updates have been made and pushed. 
+In class on 4/25/18 they went over the edits to add funtions to the Parse_GFF script. Updates have been made and pushed.
 #### Updates to parse_gff
 Added conditions to Parse_GFF to make it more flexible and compact
 
@@ -36,3 +36,7 @@ Markdown version of my CV - March 2018
     This chapter reviewes if/ else, elif, etc. to help your code make decisions on the fly
 ##### Chapter 7 - Regular Expressions
     This chapter gave several examples on how to use regular expressions. This will be helpful for my final project. Reference the PowerPoint from class for more examples of Regular Expressions and how to use them.  
+##### Chapter 8 - Dicitionaries
+    This chapter was useful for learning how return more efficient output and make more concise code. Introduced a lot of new methods (keys, etc.)
+
+    ```
