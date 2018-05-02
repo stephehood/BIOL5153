@@ -73,10 +73,29 @@ args = get_args()
 #call main
 main()
 
+###################################################################################################
+""""
+Applying Dictionaries to our parseGFF.py script
+Complex data structures:
 
+Gene = cox1, nad1, rpl5
+Exon = 1, 2, 3, 4 etc..
+Sequence = ATCGCTAGC.. + or -
 
+Genes: Key    Values
+      Cox1 : [ATG...,CAA...,TGG....,CTTC....]
+                1      2      3       4
+      rpl5 : []
 
+Sort a set of numbers- Dictionary, sorted keys, list
 
+Sorted Keys : dictionaries with Key = Exon, value = sequence and sort for the exon value at the gene_dic
+
+Read through the GFF file in a for loop
+for .... print
+Sort and print at the end..
+
+"""
 #################################################################################################
 
 #Comments below refer to how the original Parse_GFF code was written
